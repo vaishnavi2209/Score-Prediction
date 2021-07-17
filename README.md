@@ -27,4 +27,4 @@ python,numpy,pandas, google collabs
 This is an individual project.
 
 # Experinece gained
-The project added a lot to my experience column, through this I was able to implement my knowledge and have learnt many such new things. 
+The project added a lot to my experience column, by making me learn new things and by implementing the prior knowledge.Also the data visualisation techniques were introduced through this project .
