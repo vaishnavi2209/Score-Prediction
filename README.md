@@ -21,7 +21,7 @@ The project had the following parts -
 * Evaluating the model - This step is particularly important to compare how well different algorithms perform on a particular dataset. For simplicity, I have chosen the mean square error. There are many such metrics. Further, the classification report is generated. 
 
 # Tools, Technologies, and Platform used 
-python, google collabs 
+python,numpy,pandas, google collabs 
 
 # Memebers involved
 This is an individual project.
